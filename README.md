@@ -37,10 +37,10 @@ Ao selecionar a opção 1 (Cadastrar anúncio) o programa vai solicitar a inclus
 4. Data de término
 5. Investimento por dia
 
-Obs.: Como falta implementar a leitura e manipulação de datas, entrar com data no formato dd/mm/yyyy.\
+Obs.: Como falta implementar a leitura e manipulação de datas, entrar com data no formato dd/mm/yyyy.
 
-Ao inserir o item 5 o programa retorna ao primeiro menu, ao selecionar a opção 2 (Emitir Relatórios) o programa vai exibir uma lista com o valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos de cada anúncio.\
+Ao inserir o item 5 o programa retorna ao primeiro menu, ao selecionar a opção 2 (Emitir Relatórios) o programa vai exibir uma lista com o valor total investido, quantidade máxima de visualizações, quantidade máxima de cliques e quantidade máxima de compartilhamentos de cada anúncio.
 
-O primeiro menu será exibido novamente, então você pode optar por sair (opção 3), cadastrar outro anúncio (opção 1) ou emitir os relatórios novamente (opção 2).\
+O primeiro menu será exibido novamente, então você pode optar por sair (opção 3), cadastrar outro anúncio (opção 1) ou emitir os relatórios novamente (opção 2).
 
-Caso opte por sair (opção 3), o console encerra a execução.\
+Caso opte por sair (opção 3), o console encerra a execução.
